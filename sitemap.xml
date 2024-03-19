@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fast-tec.cn/blog/fico/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/blog/fico/</loc>
     <lastmod>2024-03-15T16:23:22+08:00</lastmod>
   </url><url>
-    <loc>https://fast-tec.cn/tags/fintech/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/tags/fintech/</loc>
     <lastmod>2024-03-15T16:23:22+08:00</lastmod>
   </url><url>
-    <loc>https://fast-tec.cn/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/</loc>
     <lastmod>2024-03-15T16:23:22+08:00</lastmod>
   </url><url>
-    <loc>https://fast-tec.cn/tags/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/tags/</loc>
     <lastmod>2024-03-15T16:23:22+08:00</lastmod>
   </url><url>
-    <loc>https://fast-tec.cn/blog/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/blog/</loc>
     <lastmod>2024-03-15T16:21:36+08:00</lastmod>
   </url><url>
-    <loc>https://fast-tec.cn/about/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/about/</loc>
   </url><url>
-    <loc>https://fast-tec.cn/categories/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/categories/</loc>
   </url><url>
-    <loc>https://fast-tec.cn/books/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/books/</loc>
   </url><url>
-    <loc>https://fast-tec.cn/tags/open-tax/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/tags/open-tax/</loc>
   </url><url>
-    <loc>https://fast-tec.cn/books/openstax_phys_ap/</loc>
+    <loc>https://github.com/taoli2014/hugo_blog/books/openstax_phys_ap/</loc>
   </url>
 </urlset>

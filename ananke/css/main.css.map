@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/sjtu/Desktop/hugo_quickstart",
+	"sourceRoot": "/home/sjtu/Desktop/gh_taoli2014/hugo_blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
