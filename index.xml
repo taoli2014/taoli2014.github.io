@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magic box</title>
+    <link>https://fast-tec.cn/</link>
+    <description>Recent content on Magic box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 16:23:22 +0800</lastBuildDate>
+    <atom:link href="https://fast-tec.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fico</title>
+      <link>https://fast-tec.cn/blog/fico/</link>
+      <pubDate>Fri, 15 Mar 2024 16:23:22 +0800</pubDate>
+      <guid>https://fast-tec.cn/blog/fico/</guid>
+      <description>The single-layer NN for fraud.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://fast-tec.cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fast-tec.cn/about/</guid>
+      <description>A fast running lion The most up-to-date info&#xA;More to happen.</description>
+    </item>
+    <item>
+      <title>Physics AP</title>
+      <link>https://fast-tec.cn/books/openstax_phys_ap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fast-tec.cn/books/openstax_phys_ap/</guid>
+      <description>A series of free textbooks. Translated from English.</description>
+    </item>
+  </channel>
+</rss>
